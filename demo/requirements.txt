@@ -24,7 +24,7 @@ dash-daq==0.1.0
 dash-html-components==0.14.0
 dash-renderer==0.20.0
 dash-table==3.6.0
-dask==1.1.4
+dask==2021.10.0
 decorator==4.4.0
 defusedxml==0.5.0
 dm-sonnet==1.29
