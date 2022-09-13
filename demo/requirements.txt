@@ -35,7 +35,7 @@ fastrlock==0.4
 filelock==3.0.10
 Flask==1.0.2
 Flask-Compress==1.4.0
-flower==0.9.3
+flower==1.2.0
 future==0.17.1
 gast==0.2.2
 google-pasta==0.1.4
