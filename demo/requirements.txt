@@ -67,7 +67,7 @@ kiwisolver==1.0.1
 kombu==4.5.0
 Lasagne==0.2.dev1
 leveldb==0.194
-Mako==1.0.8
+Mako==1.2.2
 Markdown==3.0.1
 MarkupSafe==1.1.1
 matplotlib==3.0.3
